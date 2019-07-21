@@ -1,0 +1,6 @@
+{
+
+    "mongoConn": "mongodb+srv://Kaur:admin@cluster0-trwbw.mongodb.net/ProjectApp?retryWrites=true",
+    "jwtSecret": "secret"
+
+}
